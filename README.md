@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @eduardogglaze
-- 🌱 I’m currently learning Python, Java, C#, HTML, CSS.
+- 🌱 I’m currently learning Python.
 - 📫 How to reach me: eduardotanuque@gmail.com
 
